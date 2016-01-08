@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Mechanical_Socket-Plug_DIN41612-Stuff_RevA)(type Legacy)(uri "$(KIPRJMOD)/lib/Mechanical_Socket-Plug_DIN41612-Stuff_RevA.mod")(options "")(descr ""))
+  (lib (name buri-breakout)(type KiCad)(uri "$(KIPRJMOD)/buri-breakout.pretty")(options "")(descr ""))
+)
